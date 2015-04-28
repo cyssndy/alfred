@@ -1,6 +1,0 @@
----
-img: "/alfred/pic/ACT.jpg"
-title: "Coop: ACT-Access Card Tracking Database"
-project: true
-link: ""
----

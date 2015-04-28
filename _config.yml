@@ -1,6 +1,0 @@
-title: iif Technology
-description: > # this means to ignore newlines until "baseurl:"
-  University of Waterloo ECE 1B Alfred Cao
-baseurl: /alfred
-markdown: kramdown
-exclude: [spare-tire]
