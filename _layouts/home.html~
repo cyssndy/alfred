@@ -16,7 +16,7 @@
 		
 		<div  id="back-ground">
 		</div>
-		<div>
+		<div class = "the-site">
 			<div class = "nav-col">
 				<div class = "nav-box">
 					<a class = "nav-link" id = "home" href = #>Home</a>
