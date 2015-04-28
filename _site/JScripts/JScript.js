@@ -2,7 +2,7 @@
 do{
 	var bgnum = Math.floor((Math.random() * 10) + 1);
 }
-while(bgnum > 4);
+while(bgnum > 6);
 
 
 $(document).ready(function(){
