@@ -24,7 +24,7 @@ $(document).ready(function(){
 	$(".cont-home-box").delay(350).animate({opacity: '1'}, 1000);
 	
 
-	$("#back-ground").css("background-image", 'url(/alfred/bg/' + bgnum + '.JPG)');
+	$("#back-ground").css("background-image", 'url(/bg/' + bgnum + '.JPG)');
 	$("#back-ground").animate({opacity: '0.3'},1000);
 
 	

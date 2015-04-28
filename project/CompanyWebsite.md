@@ -1,5 +1,5 @@
 ---
-img: "/alfred/pic/CompanyWebsite.jpg"
+img: "/pic/CompanyWebsite.jpg"
 title: "Company Website"
 project: true
 link: https://github.com/cyssndy/iiftech

@@ -1,5 +1,5 @@
 ---
-img: "/alfred/pic/Acquisition.jpg"
+img: "/pic/Acquisition.jpg"
 title: "Coop: Acquisition Workplan Database"
 project: true
 link: ""
