@@ -35,10 +35,11 @@
 				<div class = "content-box">
 				
 					<div class = "box-common cont-home-box">
-						<h1>Alfred Cao</h1><br>
+						<!--<h1>Alfred Cao</h1><br>
 						<h5>Candidate for BASc ECE</h5><br>
 						<h5>University of Waterloo</h5><br>
-						
+						-->
+						<h1>Ling &#9829 Ric</h1>
 
 					</div>
 					
@@ -86,7 +87,7 @@
 								<h6>Honour Roll Academic Achievement, Ontario Scholar</h6>
 						</div>
 						<div class = "full-resume">
-							<a href = "/doc/resume.pdf">Full Resume &#8594</a>
+							<a href = "/doc/Resume.pdf">Full Resume &#8594</a>
 						</div>
 					</div>
 					

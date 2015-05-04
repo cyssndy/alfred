@@ -1,8 +1,8 @@
 
 do{
-	var bgnum = Math.floor((Math.random() * 10) + 1);
+	var bgnum = Math.floor((Math.random() * 100) + 1);
 }
-while(bgnum > 6);
+while(bgnum > 18);
 
 
 $(document).ready(function(){
@@ -25,7 +25,7 @@ $(document).ready(function(){
 	
 
 	$("#back-ground").css("background-image", 'url(/bg/' + bgnum + '.JPG)');
-	$("#back-ground").animate({opacity: '0.3'},1000);
+	$("#back-ground").animate({opacity: '0.2'},1000);
 
 	
 //-----------------//
