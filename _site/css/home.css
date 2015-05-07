@@ -136,9 +136,10 @@ a:active {
       .content-col .content-box .cont-project-box a:last-child div {
         margin-bottom: 30px; }
     .content-col .content-box .cont-resume-box {
-      opacity: 0; }
+      opacity: 0;
+      padding-top: 10%; }
       .content-col .content-box .cont-resume-box h2 {
-        margin-bottom: 0; }
+        margin-bottom: 20px; }
       .content-col .content-box .cont-resume-box .resume-box {
         text-align: left;
         width: 65%;

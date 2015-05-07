@@ -40,12 +40,6 @@
 						<h5>Candidate for BASc ECE</h5><br>
 						<h5>University of Waterloo</h5><br>
 						
-						<!--
-						<h1>Meixi Guo</h1><br>
-						<h5>征婚</h5><br>	
-						<h5>加我QQ哟~~</h5><br>
-						-->
-						
 					</div>
 					
 					<div class = "box-common cont-project-box">
@@ -70,6 +64,8 @@
 					<div class = "box-common cont-resume-box">
 						<h2>Resume</h2>
 						<div class = "resume-box">
+							{% include shortResume.html %}
+							<!--
 							<h4>Language</h4>
 								<h5>W/ Machine</h5>
 								<h6>C# &nbsp VB &nbsp VBA &nbsp HTML &nbsp 
@@ -90,6 +86,7 @@
 								<h6>GPA 4.0, President’s Scholarship of Distinction</h6>
 								<h5>St. David CSS.</h5>
 								<h6>Honour Roll Academic Achievement, Ontario Scholar</h6>
+							-->
 						</div>
 						<div class = "full-resume">
 							<a href = "/doc/Resume.pdf">Full Resume &#8594</a>
