@@ -82,6 +82,8 @@ a:active {
       display: block;
       left: 1%;
       right: 1%; }
+  .nav-col .footer {
+    height: 100px; }
 
 .content-col {
   float: left;

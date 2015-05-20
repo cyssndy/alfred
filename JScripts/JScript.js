@@ -1,6 +1,6 @@
-
+var bgnum;
 do{
-	var bgnum = Math.floor((Math.random() * 100) + 1);
+	bgnum = Math.floor((Math.random() * 100) + 1);
 }
 while(bgnum > 18);
 
@@ -54,6 +54,21 @@ $(document).ready(function(){
 		}
 		
 	});
+	
+	$("#changeBG").click(function(){
+		var current = bgnum;
+		do{
+			bgnum = Math.floor((Math.random() * 100) + 1);
+		}
+		while((bgnum == current) || (bgnum > 18));
+		
+		$("#back-ground").stop();
+		//$("#back-ground").css("opacity", '0');
+		$("#back-ground").animate({opacity:'0'}, {queue: true, duration: '500', complete: function(){
+			$("#back-ground").css("background-image", 'url(/bg/' + bgnum + '.JPG)')}});
+		$("#back-ground").animate({opacity: '0.2'},{queue: true, duration: '500'});
+	});
+	
 
 	$(".nav-link").hover(
 		function(){
