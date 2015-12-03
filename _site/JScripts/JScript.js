@@ -1,8 +1,10 @@
-var bgnum;
-do{
+var bgnum = 10;
+
+// for now only use #10 (Manhattan)
+/*do{
 	bgnum = Math.floor((Math.random() * 100) + 1);
 }
-while(bgnum > 18);
+while(bgnum > 18);*/
 
 
 $(document).ready(function(){
